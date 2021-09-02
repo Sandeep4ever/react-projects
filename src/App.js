@@ -8,10 +8,10 @@ import {Resturent} from "./component/Resturent";
 import "./component/style.css";
 
 import {BrowserRouter, Switch, Route} from "react-router-dom";
-import UseState from "./component/Hooks/UseState";
-// import "./component/Hooks/style.css"; 
-import UseEffect from "./component/Hooks/UseEffect";
-import UseReducer from "./component/Hooks/UseReducer";
+// import UseState from "./component/Hooks/UseState";
+// // import "./component/Hooks/style.css"; 
+// import UseEffect from "./component/Hooks/UseEffect";
+// import UseReducer from "./component/Hooks/UseReducer";
 import Todo from "./component/TodoProject/Todo";
 import Home from "./component/home";
 
