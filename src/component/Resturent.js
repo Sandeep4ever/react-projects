@@ -15,7 +15,7 @@ console.log(uniqeList);
 
  const Resturent = () =>{
    const [menuData, setMenuData] = useState(Menu);
-   const [menuList,setMenuList] = useState(uniqeList);
+   const [menuList] = useState(uniqeList);
   
    const filterItem =(category)=> {
      if(category==="All"){
